@@ -1,0 +1,22 @@
+.image{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+.name{
+    display: flex;
+    gap: 20px;
+    justify-content: space-around;
+    /* padding: 20px; */
+    background-color: rgb(195, 123, 35);
+    height: 100vh;
+    width: 100vw;
+    flex-wrap: wrap;
+    /* margin: 30px; */
+}
+.cards{
+  height: 250px;
+  width: 250px;
+}
